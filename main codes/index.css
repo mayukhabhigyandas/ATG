@@ -1,0 +1,67 @@
+
+.box{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    max-width:1280px;
+    margin:0 auto;
+    width: 100%;
+    
+}
+
+.img-fluid{
+    max-width:100%;
+    height:auto;
+    
+}
+
+.navbar {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+
+  .image {
+    background-image: url('../images/post3-1200x385.jpg');
+    background-size: cover;
+    background-position: center;
+   
+    position: relative;
+    color: white;
+    
+  }
+
+ 
+  .overlay-text {
+    position: absolute;
+    bottom:1%;
+    left:200px;
+    transform: translate(-50%, -50%);
+    }
+
+    .artical-box {
+        width: 100%;
+        max-width: 692px;
+        background: #FFFFFF;
+        border: 1px solid #E0E0E0;
+        border-radius: 4px;
+        margin-top: 16px;
+    }
+
+    .articla-img{
+        max-width:100%;
+        
+    }
+
+    
+    
+
+  
+    
+
+
+
+  
+  
+
